@@ -19,7 +19,7 @@ Run the following command to install project dependencies:
 
 ```shell
 npm install
-
+```
 ## Usage
 
 If you are cloning this repository, please note the following:
@@ -30,3 +30,4 @@ To remove this remote repository, you can use the following command:
 
 ```bash
 git remote remove origin
+```
