@@ -22,8 +22,6 @@ npm install
 ```
 ## Usage
 
-If you are cloning this repository, please note the following:
-
 **NOTE:** If you are cloning this repository, make sure your project is no longer pushed to the same repository.
 
 To remove this remote repository, you can use the following command:
