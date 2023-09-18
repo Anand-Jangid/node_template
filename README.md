@@ -20,6 +20,7 @@ Run the following command to install project dependencies:
 ```shell
 npm install
 ```
+Add .env file according to your requirement.
 ## Usage
 
 **NOTE:** If you are cloning this repository, make sure your project is no longer pushed to the same repository.
